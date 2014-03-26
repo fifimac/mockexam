@@ -1,16 +1,21 @@
 mockexam
 ========
 
-Sample mock up
-# Structured documents
+# In class exam
+##To do:
 
-Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
+*Clean HTML Markup: 20%
+*Separate JS modules: 20%
+*Jasmine Tests: 20%
+*Use of git: 10%
+*Deployed in public: 10%
+*Works: 10%
+*Something Cool: 10%
 
-### This is a third-tier heading
+##Done:
+*~~Clean HTML Markup~~
+*~~Separate JS modules~~
+*~~Use of git~~
+*~~Deployed in public~~ can be found here http://salty-temple-2487.herokuapp.com/
+*~~Works~~
 
-You can use  one `#` all the way up to `######` six for different heading sizes.
-
-If you'd like to quote someone, use the > character before the line:
-
-> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
-> - Captain Janeway
